@@ -21,7 +21,6 @@ import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
 import com.onesignal.OneSignal;
 import com.example.whatsapp.Chat.ChatListAdapter;
-import com.simcoder.whatsappclone.R;
 
 import java.util.ArrayList;
 

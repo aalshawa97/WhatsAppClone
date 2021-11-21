@@ -30,8 +30,6 @@ import com.example.whatsapp.MessageAdapter;
 import com.example.whatsapp.MessageObject;
 import com.example.whatsapp.UserObject;
 import com.example.whatsapp.SendNotification;
-import com.simcoder.whatsappclone.R;
-
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;

@@ -12,7 +12,6 @@ import android.widget.TextView;
 
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.database.FirebaseDatabase;
-import com.simcoder.whatsappclone.R;
 import com.stfalcon.frescoimageviewer.ImageViewer;
 
 import java.util.ArrayList;

@@ -11,7 +11,7 @@ import android.widget.TextView;
 
 import com.example.whatsapp.ChatActivity;
 import com.example.whatsapp.ChatObject;
-import com.simcoder.whatsappclone.R;
+import com.example.whatsapp.R;
 
 import java.util.ArrayList;
 
