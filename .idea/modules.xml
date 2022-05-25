@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/WhatsAppClone.iml" filepath="$PROJECT_DIR$/WhatsAppClone.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/WhatsAppClone.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/WhatsAppClone.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/WhatsAppClone.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/WhatsAppClone.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/WhatsAppClone.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/WhatsAppClone.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/WhatsAppClone.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/WhatsAppClone.app.unitTest.iml" />
     </modules>
   </component>
 </project>
