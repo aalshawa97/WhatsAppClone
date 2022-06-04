@@ -2,7 +2,10 @@
   <library name="Gradle: com.google.firebase:firebase-database-connection:16.0.1@aar">
     <CLASSES>
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-16.0.1.aar/5b3443f690e661047ec47104fd29a0fb/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-16.0.1.aar/5b3443f690e661047ec47104fd29a0fb/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/923c81e6664980a776c5645a6dfaca99/transformed/firebase-database-connection-16.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/97911c8a968862a9a4ac534786d19c3f/transformed/jetified-firebase-database-connection-16.0.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/97911c8a968862a9a4ac534786d19c3f/transformed/jetified-firebase-database-connection-16.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/97911c8a968862a9a4ac534786d19c3f/transformed/jetified-firebase-database-connection-16.0.1/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

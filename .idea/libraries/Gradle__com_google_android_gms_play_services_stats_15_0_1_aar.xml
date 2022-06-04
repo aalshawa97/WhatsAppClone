@@ -2,7 +2,10 @@
   <library name="Gradle: com.google.android.gms:play-services-stats:15.0.1@aar">
     <CLASSES>
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/0a978cf1615ac5194fa3b18a6d2b4078/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/0a978cf1615ac5194fa3b18a6d2b4078/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b7fc1a7e3efa048511c7239db662f221/transformed/play-services-stats-15.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a014ea3f5a4718e74630fa170c534bd6/transformed/jetified-play-services-stats-15.0.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/a014ea3f5a4718e74630fa170c534bd6/transformed/jetified-play-services-stats-15.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a014ea3f5a4718e74630fa170c534bd6/transformed/jetified-play-services-stats-15.0.1/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
