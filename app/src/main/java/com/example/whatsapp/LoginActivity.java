@@ -4,6 +4,7 @@ import android.content.Intent;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
@@ -84,8 +85,13 @@ public class LoginActivity extends AppCompatActivity {
     }
 
     private void verifyPhoneNumberWithCode(){
-        PhoneAuthCredential credential = PhoneAuthProvider.getCredential(mVerificationId, mCode.getText().toString());
-        signInWithPhoneAuthCredential(credential);
+        try{
+            PhoneAuthCredential credential = PhoneAuthProvider.getCredential(mVerificationId, mCode.getText().toString());
+            signInWithPhoneAuthCredential(credential);
+        }
+        catch (Exception e){
+            Log.d("Verify Phone Number", "verifyPhoneNumberWithCode: " + e.toString());
+        }
     }
 
     private void signInWithPhoneAuthCredential(PhoneAuthCredential phoneAuthCredential) {
